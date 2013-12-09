@@ -1,4 +1,5 @@
 # GAuth Authenticator - Tizen
+========================
 
 <!--
 [![Build Status](https://secure.travis-ci.org/gbraad/html5-google-authenticator.png?branch=master)](http://travis-ci.org/gbraad/html5-google-authenticator)

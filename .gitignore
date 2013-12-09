@@ -1,3 +1,6 @@
+# ignore Mac OS file metadata file
+.DS_Store
+
 # ignore Eclipse files
 .build/
 .sdk_delta.info
