@@ -1,0 +1,4 @@
+# ignore Eclipse files
+.build/
+.sdk_delta.info
+.settings/

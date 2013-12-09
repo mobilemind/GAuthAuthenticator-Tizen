@@ -1,0 +1,19 @@
+.ui-dialog-background {
+	opacity: 0.5;
+	display: block !important;
+	-webkit-transition: opacity 0.5s ease-in;
+}
+
+.ui-dialog-background.pop.in {
+	opacity: 1;
+	-webkit-transition: opacity 0.5s ease-in;
+}
+
+div[data-role="footer"] {
+	display: none;
+}
+
+#accounts h3 {
+	font-family: monospace;
+	font-size: 250%;
+}

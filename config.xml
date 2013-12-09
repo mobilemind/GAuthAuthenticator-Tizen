@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://mobilemind.net/GAuthAuthenticatorTizen" version="0.0.2" viewmodes="maximized">
+    <tizen:application id="ZnuZMEqg6h.GAuthAuthenticatorTizen" package="ZnuZMEqg6h" required_version="2.1"/>
+    <author href="http://mobilemind.net" email="mobilemind@pobox.com">Tom King based on work of Gerard Braad</author>
+    <content src="index.html"/>
+    <description>GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007</description>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <icon src="icon.png"/>
+    <license href="https://www.gnu.org/licenses/gpl.html">GPL</license>
+    <name>GAuth-Tizen</name>
+    <tizen:setting screen-orientation="portrait" context-menu="enable" background-support="disable" encryption="disable" install-location="auto" hwkey-event="enable"/>
+</widget>
